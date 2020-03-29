@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 djfhjjfdjds
 sfdkjdskjlkj
 sjkjfsjkfds
@@ -8,6 +7,4 @@ ajksla
 jhcfjahdas
 lkadsjlkjlkdsak
 foisoifdsi
-=======
->>>>>>> parent of 349b1ee... updated fine.txt
 Hi Babe
